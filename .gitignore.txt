@@ -1,0 +1,9 @@
+# Ignore Brave browser files
+AppData/
+
+# Ignore node_modules (for Node.js projects)
+node_modules/
+
+# Ignore other system files
+*.log
+*.bak
